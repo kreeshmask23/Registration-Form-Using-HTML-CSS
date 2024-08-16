@@ -1,8 +1,13 @@
 body{
     margin: 20px;
     padding: 20px;
-    background-image: url(./assets/reg2.jpeg);
+    background-image: url(reg2.jpeg);
     font-size:x-large;
+    display:flex;
+    background-repeat:no repeat;
+    background-attachment:fixed;
+    background-size:100% 100%;
+    
 }
 h1{
     text-align: center;
